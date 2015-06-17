@@ -1,0 +1,20 @@
+{
+  "name": "air-color-scale",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:debug": "mocha --watch"
+  },
+  "author": "Romário S. Lima <r.lima616@gmail.com> (http://medium.com/@airroom)",
+  "license": "ISC",
+  "dependencies": {
+    "onecolor": "2.5.0"
+  },
+  "devDependencies": {
+    "mocha": "2.2.5",
+    "ansi": "0.3.0",
+    "chai": "3.0.0"
+  }
+}
